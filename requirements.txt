@@ -1,0 +1,6 @@
+pybit
+numpy
+jsonschema==3.2.0
+mysql-connector-python
+panda
+pandas_ta
